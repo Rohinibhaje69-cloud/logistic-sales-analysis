@@ -358,7 +358,7 @@ Development \| Business Intelligence
 
 Aspiring Data Analyst \| Microsoft Excel Dashboard Developer
 
-📧 Email: <bhajerohini@gmail.com>
+ Email: <bhajerohini@gmail.com>
 
 🔗 GitHub: [Rohini Bhaje](https://github.com/Rohinibhaje69-cloud)
 
